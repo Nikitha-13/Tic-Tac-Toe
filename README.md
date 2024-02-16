@@ -25,4 +25,6 @@ This Python script allows you to play the classic game of Tic-Tac-Toe against an
 
 Enjoy playing Tic-Tac-Toe!
 
+If you have any queries feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi.
+
 Have a Great Learning :)
