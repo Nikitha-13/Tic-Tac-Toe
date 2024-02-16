@@ -7,8 +7,11 @@ This Python script allows you to play the classic game of Tic-Tac-Toe against an
 * Run the script in a Python environment.
 * Follow the on-screen prompts to input your moves.
 * Players take turns entering their moves by inputting a number from 1 to 9, corresponding to the position on the board (as shown below):
+
   1 | 2 | 3
+  
   4 | 5 | 6
+  
   7 | 8 | 9
 * The game will notify you of the outcome: whether X wins, O wins, or if it's a draw.
 * You can play again by rerunning the script.
